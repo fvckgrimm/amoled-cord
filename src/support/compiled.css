@@ -1060,3 +1060,11 @@ base0F  #deaf8f  Deprecated, Opening/Closing Embedded Language Tags, e.g. <?php 
 #app-mount .panels-3wFtMD .panel-2ZFCRb {
     background-color: var(--background-primary);
 }
+
+div[class^="imageAccessory-"] {
+    left: 0;
+    right: 6px;
+}
+div[class^="drawerSizingWrapper-"] {
+    width: 75% !important;
+}
